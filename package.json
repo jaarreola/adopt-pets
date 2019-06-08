@@ -1,0 +1,29 @@
+{
+  "name": "adopt-pets",
+  "version": "0.1.0-dev",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaarreola/adopt-pets.git"
+  },
+  "author": "Jaime Arreola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaarreola/adopt-pets/issues"
+  },
+  "homepage": "https://github.com/jaarreola/adopt-pets#readme",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "reset-css": "4.0.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.12.3",
+    "sass": "1.21.0"
+  }
+}
